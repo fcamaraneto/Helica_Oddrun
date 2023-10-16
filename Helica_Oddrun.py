@@ -89,7 +89,7 @@ tab1, tab2, tab3, tab5 = st.tabs([
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 #  1 - DESIGN BASIS
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
-with tab2: #1-DESIGN BASIS
+with tab1: #1-DESIGN BASIS
 
     col0, col1, col2, col3 = st.columns([.75, .75, .9, .75])
     with col0:
@@ -141,7 +141,7 @@ with tab2: #1-DESIGN BASIS
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 #  2 - CROSS-SECTION
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
-with tab1: #2-CROSS-SECTION
+with tab2: #2-CROSS-SECTION
 
     layer3c = ['Conductor', 'Tape', 'Conductor Screen', 'Insulation', 'Insulation Screen', 'Water blocking', 'Swelling tape', '', '', '']
     layer3s = ['Conductor', 'Sheath Screen', 'Bedding', 'Swelling tape', 'Insulation', 'Insulation Screen', 'Water blocking']
