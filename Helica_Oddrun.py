@@ -83,7 +83,7 @@ tab1, tab2, tab3, tab5 = st.tabs([
     "🖥️ Cross-Section", "🖥️ Design Basis", "📊 Current Rating", "Report"])
     #"📊 Electrical Parameters", "Export Parameters"])
 #tab1, tab2, tab3, tab4, tab5 = st.tabs([
-#    "🖥️ Design Basis", "🖥️ Cable Design", "🖥️ Cross-Section", "🖥️ Current Rating",
+#    "🖥️ Cable Design", "🖥️ Design Basis", "🖥️ Cross-Section", "🖥️ Current Rating",
 #    "🖥️ Electrical Parameters"])
 
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
