@@ -80,7 +80,7 @@ st.title("Current Rating")
 #st.markdown('The Cable Rating module ... ')
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 tab1, tab2, tab3, tab5 = st.tabs([
-    "🖥️ Cross-Section", "🖥️ Design Basis", "📊 Current Rating", "Report"])
+    "🖥️ Design Basis", "🖥️ Cross-Section", "🖥️ Design Basis", "📊 Current Rating", "Report"])
     #"📊 Electrical Parameters", "Export Parameters"])
 #tab1, tab2, tab3, tab4, tab5 = st.tabs([
 #    "🖥️ Cable Design", "🖥️ Design Basis", "🖥️ Cross-Section", "🖥️ Current Rating",
