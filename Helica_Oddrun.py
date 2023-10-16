@@ -203,7 +203,7 @@ with tab1: #2-CROSS-SECTION
     #line = st.write("-" * 34)  # horizontal separator line
 
     # DESIGN - CORE
-    with st.expander('CONDUCTOR', expanded=True):
+    with st.expander('CONDUCTOR'): #, expanded=True):
 
         # DESIGN - CONDUCTOR
         col1, col2, col3, col4  = st.columns(cols1)
