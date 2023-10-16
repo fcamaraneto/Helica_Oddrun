@@ -4,7 +4,7 @@ from PIL import Image # create page icon
 import pandas as pd
 import numpy as np
 #import scipy.io as spio
-import scipy.special as spios
+#import scipy.special as spios
 import plotly.express as px
 
 import plotly.graph_objects as go
