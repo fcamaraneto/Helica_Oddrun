@@ -802,11 +802,11 @@ with tab3: #3-CURRENT RATING
     #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
     line = st.write("-" * 34)  # horizontal separator line
 
-    col1, col2, col3 = st.columns([.5, .75, .5])
-    with col2:
+    #col1, col2, col3 = st.columns([.5, .75, .5])
+    #with col2:
         # print('Case study 2: 30 kV submarine array cable')
-        image3 = Image.open('cigre_TB880_2.png')
-        st.image(image3, caption='Case study 2: 33 kV submarine array cable', width=300)
+    #    image3 = Image.open('cigre_TB880_2.png')
+    #    st.image(image3, caption='Case study 2: 33 kV submarine array cable', width=300)
 
 
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
