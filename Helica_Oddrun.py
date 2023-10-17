@@ -372,7 +372,7 @@ with tab1: #2-CROSS-SECTION
 
 
     '**MISCELLANEOUS**'
-    with st.expander('"ADDITIONAL DATA"', expanded=False):
+    with st.expander('"ADDITIONAL DATA"', expanded=True):
 
         col0, col1, col2, col3 = st.columns([.7, 1, 1, 1])
 
