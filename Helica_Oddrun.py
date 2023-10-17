@@ -822,7 +822,7 @@ with tab3: #3-CURRENT RATING
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 with tab5:
 
-    st.write("Under construction ... 👷")
+    st.write(" 👷 Under construction 👷")
     st.write("")
 
     #st.plotly_chart(fig)
