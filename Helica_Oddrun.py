@@ -822,6 +822,8 @@ with tab3: #3-CURRENT RATING
 #  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 with tab5:
 
+    st.write("Under construction ...")
+
     #st.plotly_chart(fig)
 
     #st.subheader('Interface with circuit solvers')
