@@ -243,7 +243,7 @@ with tab1: #2-CROSS-SECTION
     #line = st.write("-" * 34)  # horizontal separator line
 
     # DESIGN - CORE
-    with st.expander('CONDUCTOR', expanded=False):
+    with st.expander('CONDUCTOR', expanded=True):
 
         # DESIGN - CONDUCTOR
         col1, col2, col3, col4  = st.columns(cols1)
@@ -279,7 +279,7 @@ with tab1: #2-CROSS-SECTION
 
 
     # DESIGN - SHEATH
-    with st.expander('SHEATH', expanded=False):
+    with st.expander('SHEATH', expanded=True):
 
         col1, col2, col3, col4 = st.columns(cols1)
         with col1:
@@ -310,7 +310,7 @@ with tab1: #2-CROSS-SECTION
 
 
     # DESIGN - ARMOUR
-    with st.expander('ARMOUR', expanded=False):
+    with st.expander('ARMOUR', expanded=True):
 
         col1, col2, col3, col4 = st.columns(cols1)
         with col1:
@@ -344,7 +344,7 @@ with tab1: #2-CROSS-SECTION
 
 
     '**WIRE DATA**'
-    with st.expander('"RADIUS"', expanded=False):
+    with st.expander('"RADIUS"', expanded=True):
 
         col0, col1, col2, col3 = st.columns([.7, 1, 1, 1])
         #with col0:
